@@ -4,6 +4,8 @@
 <dict>
 	<key>content</key>
 	<string>exten =&gt; s,n,</string>
+	<key>content</key>
+	<string>same =&gt; n,</string>
 	<key>name</key>
 	<string>exten</string>
 	<key>tabTrigger</key>
